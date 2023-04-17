@@ -5,6 +5,8 @@ Promoción 50% en Lacteos
 Promoción 70% en enlatados
 Aplicar el descuento a las compras realizadas
 y mostrarlo.
+****** Parte #2 .. LA SOLUCIóN SUBIDA en 1 
+        Cubre parte #1 y parte #2   ********
 */
 
 const PROMO_CARNE = 0.25;
