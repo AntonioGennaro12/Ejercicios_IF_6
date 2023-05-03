@@ -34,7 +34,7 @@ const MAX_CANT_CARRITO  = 1000;
 miTitulo.textContent  = "Supermercado 'Dev & Foods' - ¡¡Hoy todo Promo!!";
 imp2Carne.innerText   = "Carne " + (PROMO_CARNE   * 100) + "% off - Cuantos Kgr necesita?  ('0' si no compra)";
 imp2Leche.innerText   = "Leche " + (PROMO_LACTEOS * 100) + "% off - Cuantos Lts necessita? ('0' si no compra)";
-imp2Latas.innerText   = "Latas  " + (PROMO_LATAS   * 100) + " % off - Cuantas Un. necesita?  ('0' si no compra)";
+imp2Latas.innerText   = "Latas  " + (PROMO_LATAS  * 100) + "% off - Cuantas Uns. necesita?  ('0' si no compra)";
 
 function verificaCompra() {
 let kgCarnePedida = impCarne.value;
